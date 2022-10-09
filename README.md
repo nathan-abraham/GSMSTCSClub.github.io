@@ -17,3 +17,10 @@ Welcome to the repository of GSMST CS Club's website!
 `images/` - Contains images for the website
 
 All of the `HTML` files are located in the root directory.
+
+## Guidelines
+This repo is beginner friendly with the aim of learning plain HTML, CSS, and JS. Therefore,
+- No JS/Full-stack frameworks
+- No CSS frameworks (Bootstrap, Bulma. Materialize)
+- No SASS, LESS, or PostCSS
+- CDN/standalone js libraries are allowed
